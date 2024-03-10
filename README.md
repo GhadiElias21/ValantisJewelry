@@ -1,4 +1,4 @@
- an online responsive  store that sells gold jewelry with diamonds and other precious stones.
+ an online store(includes mobile responsiveness) that sells gold jewelry with diamonds and other precious stones.
 
 The site offers a variety of products, such as rings, earrings, bracelets, necklaces, pendants, 
 and brooches and it  allows the user to search for products by price range, ascending or descending order, and keywords.
